@@ -1,5 +1,8 @@
+
 fastapi
 uvicorn
 transformers
 torch
-indic-nlp-library
+pydantic
+python-multipart
+
